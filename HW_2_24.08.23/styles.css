@@ -1,0 +1,82 @@
+/* Part 1 */
+main q {
+    color: green;
+}
+
+/* Part 2 */
+.list a[href^='https://'] {
+    color: red;
+}
+
+.list > li:last-child a{
+    background-color: green;   
+}
+
+.holder ul + p {   
+    font-size: 26px;
+}
+/* або .list + p */
+
+/* Part 3 */
+.text-box h3:first-child {
+    color: pink;
+}
+
+#greycol {
+    color: grey;
+}
+
+.text-box div > p {
+    color: red;
+}
+
+.text-box p:nth-last-child(2) {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+/* Part 4*/
+/* .bg-box {
+    width: 1366px;
+    height:768px;
+    position: relative;
+    background-color: green;
+}
+
+.bg-box::before {
+    content: '';
+    position:absolute;
+    background-image: url('house.jpg'), url('eh.png'), url('donut.png');
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat, repeat-y, repeat-y;
+    background-position: 50% 50%, left, right;
+    background-size: auto, 40px, 40px;
+}
+
+.bg-box::after {
+    content: "";
+    position: absolute;
+    background-image: url('lamp.png'), url('grass2.png');
+    background-position: top, bottom;
+    background-size: 60px, 380px;
+    width: 100%;
+    height: 100%;
+    background-repeat:repeat-x;
+} */
+
+.bg-box {
+    width: 1366px;
+    height:768px;
+    position: absolute;
+    background-color: green;
+    /* width: 100%;
+    height: 100%; */
+    background-image: url('lamp.png'), url('grass2.png'), url('house.jpg'), url('eh.png'), url('donut.png');
+    background-repeat: repeat-x, repeat-x, no-repeat, repeat-y, repeat-y;
+    background-position: top, bottom, center, left, right;
+    background-size: 60px, 380px, auto, 40px, 40px;
+}

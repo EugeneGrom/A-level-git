@@ -1,0 +1,202 @@
+/* Part 1 */
+.card_container {
+    width: 600px;
+    height: 600px;
+    background-color: #0d5825;
+    font-size: 25px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.card_container #quote {
+    display: block;
+    padding-top: 20px;
+    position: relative;
+}
+
+.cards {
+    height: 250px;
+    position: relative;
+    top: 200px;
+}
+
+.cards img {
+    /* background-image: url('card01.png'); */
+    width: 150px;
+    background-color: transparent;
+}
+
+#card1 {
+    position: absolute;
+    left: 190px;
+    transform: translate(-45px, -20px) rotate(-25deg);
+    transition: 0.1s linear;
+}
+
+#card1:hover {
+    bottom: 50px;
+    transform: translate(-45px, -40px) rotate(-25deg);
+}
+
+#card2 {
+    position: relative;
+    transform: translate(-20px, -15px) rotate(-7.5deg);
+    transition: 0.1s linear;
+}
+
+#card2:hover {
+    transform: translate(-20px, -40px) rotate(-7.5deg);
+}
+
+#card3 {
+    position: absolute;
+    right: 190px;
+    transform: rotate(7.5deg);
+    transition: 0.1s linear;
+}
+
+#card3:hover {
+    transform: translateY(-30px) rotate(7.5deg);
+}
+
+
+/* Part 2 */
+.container {
+    width: 210px;
+    height: 210px;
+    /* width: 200px;
+    height: 200px; */
+    position: relative;
+    /* z-index: 20; */
+}
+
+.shapes {
+    /* width: 100px;
+    height: 100px; */
+    width: 90px;
+    height: 90px;
+}
+
+#elem1 {
+    position: absolute;
+    background-color: pink;
+    z-index: 1;
+}
+
+#elem2 {
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    background-color: blue;
+    z-index: 2;
+}
+
+#elem3 {
+    position: absolute;
+    background-color: green;
+    top: 120px;
+    left: 120px;
+    z-index: 1;
+}
+
+/* Part 3 */
+/* .short-menu {
+    display: none;
+    background-color: grey;
+    height: 450px;
+    text-align: center;
+    text-transform: uppercase;
+    color: whitesmoke;
+    writing-mode: vertical-lr;
+    transition: width 2s linear 1s;
+} */
+
+.menu {
+    position: relative;
+    left: -280px;
+    background-color: grey;
+    height: 450px;
+    width: 300px;
+    padding: 20px 0 0 10px;
+    box-sizing: border-box;
+    color: whitesmoke;
+    transition: all 1s ease-in;
+}
+
+.menu #menu-here {
+    float: right;
+    text-align: center;
+    text-transform: uppercase;
+    color: whitesmoke;
+    writing-mode: vertical-lr;
+    opacity: 1;
+    transition: all 0.5s ease-in;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.list li::before {
+    content: '';
+    position: relative;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background-color: goldenrod;
+    border: 1px solid black;
+    margin-right: 20px;
+    transform: rotate(45deg);
+}
+
+.list li {
+    margin: 10px 0;
+}
+
+.list li a {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+.list li a:hover {
+    color: goldenrod;
+    transition: 0.25s linear;
+}
+
+.menu:hover {
+    left: 0;
+}
+
+.menu:hover #menu-here {
+    opacity: 0;
+}
+
+/* Part 4 */
+.area {
+    width: 300px;
+    height: 300px;
+    background-image: linear-gradient(180deg, #e66465, #9198e5);
+    position: relative;
+}
+
+#cube {
+    width: 100px;
+    height: 100px;
+    background: red;
+    position: absolute;
+}
+
+@keyframes movingAround {
+    0% {top:0px; left:0px; background-color: red;}
+    25% {top:66.6%; left:0px; background-color: blue;}
+    50% {top: 66.6%; left: 66.6%; background-color: green;}
+    75% {top:0px; left:66.6%; background-color: yellow;}
+    100% {top: 0%; left: 0%; background-color: red;}
+}
+
+#cube {
+    animation: movingAround 4s infinite normal;
+}
