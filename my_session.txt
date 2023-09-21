@@ -1,0 +1,1431 @@
+Eugene-PC@DESKTOP-9NEQ3J4 MINGW64 /e/A-level/HW_GIT_8
+$ ssh sixfingers91@students.a-level.com.ua
+The authenticity of host 'students.a-level.com.ua (164.138.30.21)' can't be established.
+ED25519 key fingerprint is SHA256:2MIqGWjsBMTHR7IhaTzictvmF1jnMhoAXBFjdF6RMgk.
+This key is not known by any other names.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'students.a-level.com.ua' (ED25519) to the list of known hosts.
+(sixfingers91@students.a-level.com.ua) Password:
+sixfingers91@helium ~ $ pwd
+-bash: $'\320\267\321pwd': command not found
+sixfingers91@helium ~ $ pwd
+/home/sixfingers91
+sixfingers91@helium ~ $ ls
+sixfingers91@helium ~ $ ls
+sixfingers91@helium ~ $ ls -la
+total 68
+drwxr-xr-x    3 sixfingers91 sixfingers91  4096 Sep 19 11:44 .
+drwxr-xr-x 1336 root         root         45056 Sep 19 11:44 ..
+-rw-r--r--    1 sixfingers91 sixfingers91   127 Feb 10  2019 .bash_logout
+-rw-r--r--    1 sixfingers91 sixfingers91   204 Feb 10  2019 .bash_profile
+-rw-r--r--    1 sixfingers91 sixfingers91   551 Feb 10  2019 .bashrc
+drwx------    2 sixfingers91 sixfingers91  4096 Dec 10  2012 .ssh
+sixfingers91@helium ~ $ cd ..
+sixfingers91@helium /home $ ls
+a0956673424              dzinnorma2              maksimkisil164          sergejlevsna
+aalexeigolishev          ebubyr15                maksimkravchenko190601  sergey23snpua
+abnormallydev            eeks38066               maksimmoroz67           sergey441987
+achakubai                egorbessalow27          maksimtkala             sergeycherevatyi
+advo737                  egorostroukhov          maksimus111mn           sergeyostapchuk
+adyn966estonk            eguzkia6                makspoznyak8            sergioserega33
+aelizev                  ekaterinapodlyjnaya     maksteryohinua          sergiypersianov
+afanasyevvn              ekaterynakravchuk       maksveremey4ik          sergsmbox
+affrit393                ekazachkovakh           maksymihnatenko         sergstukachov
+afursa773                elenasemenukha          maksymind               serhiibezsonov
+agarkovkirill76          elenatropanets          maksymkononenko         serhiikorzhov
+agavrilenkoandrey        eliseyka842             maksymkonyaev           serj777front
+ahmedovnamik             elizabethcalmau         maksymlinynskyi         seroga2801
+akhm440                  elizabethholovko        mantiy2017              serzhmalakhov02
+akinshina199619          elizavetasalvador406    manyavas1987            shakh1998v
+akolesnikov040498        elizpacific             maraevaveronika         shaposnikova2212
+akovalenko1979           ellakurmaz              marakanec1981e30        sharkadivaleria
+aksenovaviktoriia        ellastra37              mariaevtushenko         shaturnyj120293
+aleksandrauavas          elmirnew123             mariafadeeva4155        shcherbakevalex
+aleksandrgogosha         elpantheros             marianovik3             shepenyovserhii
+aleksandrgolenko         emfar1993               mariasavina1701         sherstyukalex
+aleksandrkamenchuk91     enferum03               marijasverdl            shevanyako
+aleksandrpolishchuk82    eqvconst153             marijuana12y            shevchenkoalbert
+alekseikamynin           eraush37                marinakolosova951       shevchenkoartur745
+aleksejmikhajlovs        ernestsobolev2006       marinarrrr231           shiatiyvlad
+alenaelena1301           errma36524              marinka1610             shigalevsk
+alenalednyova            esmira2008              mariuksergey            shiiitilova
+alenalogvinova20134      evgeniastreliaeva       mariyamokanik           shilov0209
+alenamoskovakh           evgeniy                 markkolenov13           shinkarenkocmds
+alenanakonechnay16       evgeniykolodko          markov1                 shlyapin8848
+alenashvareva123         evgeniyonishenko93      markovolchenko          shmatkodmitriy07
+alenka85ivanova          evgenshalomov           markrovensky            shokolenko
+alexanderkonorxv         evheniev                marnidor                shpilevoy29
+alexanderpokr            evilalien37             marshalcopy1509         shurik8505
+alexanderpristavka       evvkakareka             marshch188              simoshasarkis
+alexandertupkalo1        ezapadinsky             maryansmerchinskiy      six994guv
+alexandervozorom         ezerskiyigor2000        maryluis613             sixfingers91
+alexandr1992nikolaevich  falchenkoslavon         marynadukhnich          skladinstrumenta
+alexandragaag            fanlion                 marynakameneva          skladlamp2012
+alexandrbelan23          farkashyaroslav         marynazaremska2012      skluchnick2015
+alexandrillichov         fatimagulomova          mashanik2010            sklyarovqwert
+alexandrromanenko        fedets                  mashapichienko          skorik08
+alexandrsidorenko1492    filonitta               masterpovar1985         skrunnik.kirill
+alexandrsol23            first00141              matvejslobodin          skrypnikandrii
+alexbatalin55            firstolwb16             matveysubbotin89        slabuhodanil
+alexbott0212             flammeten               mavip95                 slasev903
+alexderevyanko91988      flipua71                max                     slavikair2020
+alexeypodorozniy         foreverfitkh            maximkhodonin           slavon91101
+alexeysleptsov89         forsoctask              maximkosteley           slonyamant
+alexeytreglazov          forzub                  maxkuzubov55            smakvlad
+alexeyvdovenko22         frendt                  maxmorrel777            smalakey
+alexfiendish             freshskelet             maxusan0                smaryna111
+alexiyv                  frikcio67               mazuta282               smaug3003
+alexkrt34                frolenkovaaa            mbkkong                 smmbox
+alexkurakin2003          frycher02               mcdenis2000             smykroman99
+alexsandrsasa007         fsn9792                 mcsemensky              smykuliasmy
+alexsemenyshyn           ftp                     mdfcnvsn                snachala1995
+alexskitz1995            fursovedward            mediol26                snurnikovdima
+alexwork1771             gaaraqwer               meetford                soap0811
+alievtyme415             galaidaarseniy          melamori1605            sofiiabalaba
+alisakrout               galja2908               meleshkoa99             sogkaban
+alisamahomedova98        ganjavova91             melmakmelmak75          sokoldimon0509
+alishasergeeva94         garknn                  melmaks1488             solovyovbogdan10
+alkapsiholog             gavkat                  melniknc                somchynskyiroman
+allias5000               gennadysht              mercy200111             somoff2007
+aloneanderson            geolook                 meteorologsio           sorax93
+alsapozhnikov84          gerbyboyz               mfdok4388               spetrenko91
+alyonagluhoded           gfhfkjy31               mihailbahmut            spheroom
+alyonaivanovakh          gfksx7                  mikegavrylenko          sryaboshtan
+alyonakukhnacheva        ghostfalconkr           mikkyyoung24            ssaalliiyy9977
+anastasia138311          gichkins                milad020197             staciarudenko
+anastasiagunbina94       gjgdch36                milenavasylyeva         stanislavdanylov
+anastasiapochta96        gladyscheva             milkavilka007           stanislavkuznietsov2015
+anastasiatabaluk         glebkhivrenko           minhchik4603            stasmyron2018
+anastasiiatsybezova      glmk354                 mironenko2811           stasnazarov71
+anastasiyawelcome        gnatarov1992            mishahorod              stassheludko16
+anatoliitregub           goga06                  mishakalashnikov97      stasvladlenko
+anatoliizalizkii         golaleks                misterdobrovolsky2017   stepa9chfcars
+anatolio7z               golembievskijj          mistik200114adv         stlinden11
+anatoliylaktionov        golena83                mitrofanovanatali03     stogniy9797
+anatollko91              golovachev114           mkalash177              stoliarenkoa
+anchenmamina             gorbanaleksandr         mkbaranovskyi           storchak850
+ancr0999                 gorbatenkomary11032002  mkristiblack            store
+andgorbachov             gorlovanleonid          mmertalagoz10           strelchenkovladimirs
+andless1995              gosha270                mnv7650                 strilkts
+andreevilya1998avm       gothicangel1331         moiseevartem93          stripkoyulian
+andrej_mia               goverla123456789        moloko666777            stukashovaevgeniya
+andrejmatveev2602        grachnikol              monah1744               stupitskiymaksim
+andremak1988             grandlzm77              mopnex14                style531
+andrewpulyaev            gregponomarenko         morozelenap             styleganiev
+andrewsharapow           grisha1996111616        mournexx                successfultowork
+andrewvoloshin85         gubinskiyaleks          mozartneverdie          suharevnv
+andreyfaichuk            gukovskayajane          mrholmsxdd              super071281
+andreygorbanyov7         guruchannel21           mrkoll1113              superbogdan68
+andreykurilenkoo         gusev28                 mrlezalit               superkholodnyak2019
+andreymyphot             halynaliashenko         mrradkevych             superpopayman
+andreynagornykh2004      helvas1998              mrtrader92              superprorab92
+andreyshevchenko1177     hexpnctb                msahno16                suslovd52
+andreyyl1985             hhhamon91               msalaev468              svampx
+andrii5030               hitlifeme39213          msemerni                svetanochka
+andriimandrikov          hlogsatyr               mslavik0322             svetashmidt93
+andriklsd                hludeevandrey1980       mtsehovsky              svetlana2104
+andruefim                hodobe19                munin-collect           svetlanadenisenko
+andsimen                 holevchukevgeny         muradabdulaev1998borec  svetlov1805
+anetttta22               holovatiuknastia        muroar91                svigipigi
+aniepavlenko             homovych                mv0101w                 syashevtsova
+anikinator               hovorovskiid            mvadim3104              syava_trader
+anisagoan                htmlcat5                myagkiypavel            tadianua
+ankuddanil99             hugavlad                mycleverowl             taisiiapomazan
+anlukina24               hvostamv                mykhailoserhiichyk      taisiyachaika
+annababicheva            ibanusia                mykolanovikov91         tamara1kharkov
+annadarahan              ibnajub                 mykytapidhornyi         tamaranguyen123
+annakarelia77            ignatovlad95            mykytapostnikov         tancur1975
+annalav2100              ignatovrostislav1337    mypochta0330            tanjamikhnva
+annamoskovskaya14        igor3821                nacigulev               tantsurm
+annashport11             igorbaranchuk333        nadiiadiakova           tanuska
+annataranenko01          igorchernyaev1999       nadiialytvyn            tanya3743
+annskaylove              igorgerasimenko89       nadiyadekhtyar          tanyamorozova777
+antiptana                igorred29               nakonechnadiana210      tapetrosian
+antispop1                igorshulgin19081994     nalivaikoms             tarantinvitaliy
+antohagryb               igorsverdlovsk          narizhniyaleksey92      tarassolanik
+antollika                ihorstolovyi            nasta5666666            tarcex
+antonbragar              ik0077ik25              nastiamisiura           tarnovskidj
+antonenkoanna2020        iliaguriev8             nastyabr194             tatevosyan01
+antonplonskii54          ilichovvladislav        nastyapalamarenko02     tatlozenko
+antonpyvovarov           illyapikulyak28         natalichoice2           tatyanaslysh
+antonstepkin             ilmpham949              nataliiasaltan          tayasl1999
+antonszn                 ilonabirchenko          natashanatasha1395      tbul130599
+antontsyatska            ilonakobert91           natella1989and          temaw25
+antoxapopovich           ilovetribalcom          naytilys685             tetianamartseniukua
+anzhelachv               iluhajuhnel             nazar91187              thedanilonpro
+apc71405                 ilunyakozyr             nazary21                theidolsinsideus
+apivovarskii91           iluxan7                 nazzzarr                therealdk717
+aprach99                 ilya080104              nechaino                three379344
+aqwed11pantera           ilya3677164             nekit201200             tim4enkoekaterina99
+aradelka                 ilyakorzh95             nemogyvhs               timchenkod88
+arayennet                ilyashian               nesheretskaya13         timurmorozov82
+architeczp               ilyavi02                nesterchukolka21        tishkov834
+aremvans                 impelpromkh             new                     tkachalena0803
+arkaady23                inbonoveritas28         ngarnaga2               tkalindima2013
+armfighter89             inboxema2015            ngrizzzli               tnnkamyshanova
+artemdjtom               inboxlex                ngungonngon             tolikhrechanyk25
+artemlepyoshkin          inerubatskiy            nickolaydaragan         tolstoyvitaliyv
+artemmoroz0606           inkola1984              nickolaypchelin         tomen4ik
+artemnesterov1991        inna180887              nikaniks57              tomrain78
+artemoncheg90            inna42320               nikitagurg              toriakozenko
+artemosypov2020          innaerkh                nikitakoptevv           tortello1986
+artemschannel2           innahorbovtsova         nikitanavrockij         toryanik
+artemstanislavenko       inotfest                nikitashkarubo7         totalgol2015
+artkola122               inventory               nikitavoronichev        totalion007
+arttodoc                 invise24                nikulnikovz2000         tovgolstrim
+arturdrozdov11           iriinademina            nikusichenko            toxa1507
+arturnebotov13           irinabolbat98           nobleelvengod           toxasarts
+arturpetrokas            irinayaremenko2804      nonickban               toxaztoxa
+arturrigas1997           irnmatush               nortenoscs              trimeump
+artursamoylovkh          iryna113                nosovichok              trip
+asenkabsq                isakhatska              novikovoleg721          tristan535007
+ashurovvadim7            itimosenko307           nplakhotnaja            trofimchyk61082
+asmer                    ivan777original         nrostotopik             trytata
+asmodeus                 ivanik10708             nuncupandi              tsekhmistrog
+astanalexx               ivankalinin             nussik99                tsekhmistrov2799
+astarunov                ivanklepinin00          nyshnui                 tsymbalenkoolga
+aubanca                  ivankoshevoy2           oalekhnovich            tt
+autofix                  ivanmandrikov           obatozhnyi              turchinanton2
+avas34497                izikov649858zhenya      ogerwood3300            tvonko
+avdartall                izokasya                oksanazhar99            two529932
+avror2503                jankozhyn               olchavalakh             tykan4uk2010
+avtomix555               jarohenkovlad10         oldhatecuckold          tykhyiandrii
+awlex                    jekakharkov73           oleg1990moskalenko      uagoalkeeper1
+azadorozhniy90           jekamokan1994           oleg8995                uchupryna1991
+azazelinter              johnsmornov             olegbalyuk92            uhimenkouhim
+azovskiykit              jrlapayn1               olegby64                uhmeplay811
+badgitarplayer           juliyasolovyova16       olegget97               unicorninpants
+baglaevsergei            jurgenostroverkh        olegking76              unrecog_izable
+balotelli357951          kacdenis52              olegkropivka5           user0669768520k
+balystiy                 kalinenkoa01            olegyourbondarenko      usern1861
+bandydan                 kallaurdaria            oleksandrgnap           usichenko91
+barminenock              kaluzhniynikita         oleksandrmatvieiv       vadimbatvinev
+baskovaleksey777         kameliaaska77           oleksiiprotyniak        vadimcherevatenko
+bayevaleksey             kamuongua               oleksiivasylevskii      vadymriabichenko
+bazilevichkirill         kanekane1525            oleksijltvn             valcevanatolij
+belous50409              kapranviktoriia         oleksiysorokin17        valeraradchenko2018
+belval848                karachevcevilia         olenaradiuk             valeriysmk
+belyaevayarina           karataievpro            olesyabrazhnikova11     valeriyykolesnikov
+bennij96                 kardashda               olesyagutneva           valerocka1995
+bezginovaolga            karen                   olexandrkushniruk       valik009
+bigirodion2005           karinabulavintseva      olexiyyurchenko         valmel2006
+bilichenkoaleksandr      karinadmd1              olga6104959             vanya9717
+bkirilenko7222           karinakarpenkok         olgabogatska            varvarahuza
+bladeandsoul322          karinalabazova          olgalaim101             vashchenkovladyslav95
+blokhin98d               karinavitsentovych      olgapistryak            vashe4ko
+bodyashebet              karishamarochkina       oliferchukaleksandr     vaskak0007
+bohdanius22              kartohaon               oliinykrus              vasylenkoirene
+bohdankavok              kartur21081998          oliynykoleksandr1984    vatu500
+bohdansudenko            katelove30stm           olizarenkovl            vds71828
+bohdanuk.hr              katetkachenko90         olliashenkolo           vedazzz28
+borovoy06nik             katjarost1501           oloktionov1985          vegoskh
+borovoyddd               katrin                  olshanskiy44            veloolen
+borovskoy99              kenshinshinki           omela91                 veraarchitect23
+borysenkoa4              kerrad27                omeller1982             vetal4313
+bos007                   khlyakinandrey          omelyanenko108          vicoolgorlova
+boykodmitrij             khmeleva_olga           one314avatar09          vikamaximovich
+bqnote197                kichkoua                opolyanchikova23        vikaromantsova
+braunvlad981             kindratishin2001        orbismgm                vikivikivikikoryagina
+brkmkndrmz               king21james21king       orysiamagon45           vikprevar
+brutix80                 kircherkashin           oshabliy                viktkyrov
+bsvetik1341              kirichenkovitaliy89     ostapenko260691         viktoria9914
+bublykyevgen             kirilldenisovkhar       otticemilch             viktoriafolkina
+bulat032293              kirillomelcenko411      ovcharenkosi            viktoriyashumeyko
+bulbaoleksandrsasha      kirrdann                ovsyanikgarik           viktorrrriia
+burito040                kiruchka050512          oxanatesher             violettashapik1
+butovanna19              kishinskiyy             oxxximironoxxximiron    violkakovalenko
+bv28dog                  kisilvlad0414           paffos001               viryutinyegor
+bylkovd                  kkravets1018            palchinskij19           vit91112
+cancermakh               klanskaa7               panthervsanyone         vitakram29695
+caramelpie78             klddarina               partizanwar1917         vitaliiivanov1983
+cavaljn2020              klint1091               pasha0kovalev           vitaliipysanyi
+cfsangvinik              kliucharovvlad          pashaalexandrov1996     vitaliyshapoval1991
+challenge                kljjuzka2               pashabaydak             vitalypolish
+chda7911                 kmakienko1990           pashakurko              vitek870918
+cheart1308               kmishka1997             pashazpua94             vitekmonstr
+chelovekprostoi19        kogna24                 pastushenkovladislav21  vkamskow
+cherniavskaya            kolomietslion           pavelkramarenko106      vkormilets
+chertikdaha              kolya220200             pavelsosiurka           vkutsar89
+chestets                 kolyashevelinda         pavlechkoserhii         vla23sta
+chiefmakflay1            komarovaleksandrkh      perfectkperformance     vladaorel21
+chuvetal                 kononenkov337           peryatony               vladbabich1
+coins                    konoplyaaleksandr       petrb1990               vladbehim
+coins.tar.bz2            konstantinkudrik        petrovilya9891          vladcinfo
+conmeo1998x              kontrec91               petrsupreme             vladik
+cooler5339               korniienkoviktoriiaa    petrunya7778            vladikdavidov98
+courier                  korsarius846            phamlamptl              vladimir45822
+crmsystem                korshikov98igor         phodin                  vladimirdaragan5
+crng                     korsunovegor75          phpzei                  vladimirnechetov
+cromeo780                kosmoaist               pika17071997            vladisla1988
+cyrmailbox               kostiantynshevtsov      pimenovaaa12            vladislavabogaturova
+daglarovartem            kostinmisa9             planet                  vladislavdyachenko00
+dahaevtushenko2018       kostiusta               platonovdima1312        vladislavmarkov05
+dailyformula             kostya120288            plutisko                vladislavnadolko
+dalassolo                kostya1cn               pluzhnykalex            vladislavshpilka
+damat1992                kotenkobogdan37         pocpoc9257              vladislavstroy
+dance19love              kovalenko261199         podadi2003              vladkalchenko08
+danessi101               kovalenkovm9            podkolvik               vladkhardi
+daniijele                kovalev2014aleksandr    podtiaroba              vladmorgun52
+daniilbelozub123         kovatatiana             pollyyyakuzminova       vladpn91
+daniilhan27              kowalewadaria2012       poltavskiyalexander     vladryk84
+daniilmilonga            kozelden4ik             polus000081             vladshekhovtsov93
+danik29052005            kozlovskyibohdan        ponomarenko147          vladwolf
+danilshram29             kppmatvienko            popserg5555             vladymyrkhabarov
+dannaleevan              krabzzenberg            ppmarckin               vladyslavapylypenko
+dartonetorr              kraevskiy171717         prayforthedeadhardcore  vladyslavmakarenko08
+daryapelpe10             krainiukmaxym           primak90ua              vladyslavmartynov
+dashallavrova8           kramarenkoden83         pringls777              vladyslavsmirnyi
+dashatreshchalova        krava9824               prisenkoinna            vlas4783
+dav_pr                   krispanda3131           pro2html                vlisitskiy
+ddimitriuss              kristinaachi            prohorantropov          vlmedved1661
+dead1990bb               kronys4221              protuberanec2023        vmv9753
+delttol                  krupenkoandrei1991      prozorovakarina17       volckov9927
+demidsv2                 krutasinna              prylutskayevgeniya      volddemar4ik
+deminanatali22           kseniaromanovna92       psaenko9                volkovmakc1993
+denev2211                ksu                     psv                     volodymyrdzun
+deniiserbull             kubi4140896             pumbasl60               volovikdmitriy
+denis167518              kuchademan              punksunited             voronovri1994
+denischupikov            kulibaba19012001        pusachev                vovagrabarev
+denisdudin50             kulikgeorgy7            qa                      vovakovrigin007
+denisemetsgo             kupriianovvladyslav     qvadro8888              vpushkar2730
+denisgolovaty            kurashov1307            r6941919                vssergieiev
+denislisitsaua           kurnosovltd             radchenkodenis1990      vtlnkhn
+denismednov              kurskiy315920           randomrandom4617        vveraaiivanovaa
+denissphinxo             kushnarew               rarebizzinator          vytrishkovlad
+denissvich1510           kuzyaevdima1903         rastafaraisolution      wanua3
+denistsyban              kvasovdim17             ravildos90              wassya999
+denisyuriewich19062003   kvzhyrko                rbr2063                 were23as
+denkuchma10              kyrylenkovaleriia1      rcerevko60              werpavel
+dennispariyar            kystic2102              rebrovich1              wifi
+dentyta5000              labunskaalina           redmi4444r              wiking1317
+denysbasanets            laktionovamarina        reshetniak1993          wincher2016
+dgorskaya2003            lancevrot107            rest                    wingeeddd
+dianakovtun22            langovets               rezhenkovaanna2017      wiseacreserj
+diemianovaleksandr       larinhe                 rickhlushko             wjjwwwj
+dieselpro48              larychevport            robota1975              xfighe
+dima17lit                layeraz                 roevtushenko            xokapwnz
+dimabondarenko2404       lbajdull                romakolesnyk20001       xyutwist
+dimachernyak228          lebedenko619            roman1985buday          yagoding124
+dimagrechkin8            leeroyhar               romandemianenko192      yakushinaolga89
+dimahmyz                 lehareznichenko2        romanenkoleksandr       yalisanda
+dimakolbasov             lehasakun               romanlukyanenkorl       yamasimka83
+dimakozhurin28           lemacsva                romannagula92           yanatishchenko
+dimapd5087               lenakirilenko13         romannenakhov08         yand199627
+dimapotqpenko432         leraradchenko818        romansemionov111        yankevich2002
+dimebag105               lesopotamus1            romanxboyko             yarikpiskun41
+dimetris92               lesovoyye               rostickx                yarmoxa
+dimihaylik               lev3lev050895           rostyslavsyniuk         yarokaro5
+dimonychkormyshev        levy10811               rovalerjevich           yaroslavakpp
+dimtimoschenko2015       lexaszhahov             rozmariav               yaroslaw6788
+dimtimoshenko96          leybovanton             rudichofficial          yashach2005
+djkarapuz                likeishutin             ruslankobozev           yehorpetryshyn13
+djon7711                 likelovesveta           ruslanloladze           yelizavetabarkar
+dkhlopina                lilydementeva29         rustamli888             yeriominvova
+dkskipi                  limoncrazy97            ruznets                 yevheniiapetruk
+dmbor123                 linadmitrievna2017      s7443087                yevheniiivanisenko
+dmitkantemir             lipovoyarseniy          safonovdavid30          ymaralamov
+dmitrijbaraban           liprikonchi             saggb14                 yrmn10
+dmitriylementa1209       litvind443              sagitovavika2016        ysasha9393
+dmitriymalikov21         llolka988               salesmvitaliy           yuliakokodzey
+dmitriypodgora           lozzeal                 samochka1987            yuliamelnikgm
+dmitriyvozhzhov          luisiana0404            samsonvetall            yuliiasemets
+dmitriyzaika97           lukashlukash12          sandrozhilenkov         yuriikhomich
+dmkorshunov2013          lukienkoigor411         sandrvik                yuriydzyadukh
+dmstebenev               lukirinyuriy            sanyawarlord            yurockx
+dmydymytrov              lulyabay                saparinoleg             yusov2805
+dmytroastapow            lumeryanna              sapemiaen               yvs9393
+dmytrolisovskyy          lunar1645               sasha7737209            zacheparostislav
+dmytrososedko            lunyovevgeniy           sasha_zlobin            zaharapple88
+dobrovolskiy_2001        luxurysergey            sashamirniy02           zalupinet
+docidemidova             lyadnova2312karina      sashavazhov             zanusilker
+dolovesv25011992         lyalyakharkov101        sashina51               zaporozhanvika
+dosystemopt              lykin4ik                savchenkoartem1         zavada02
+doxis32123               lyndinaulia120          savchenkosergej78       zaxar322010
+dponomarenko51           lysenkoa88              savinilyada             zedkonstantin
+dragun2552               lzedimitri7             savitskyi90             zekagorobey
+dronviktoriia            m4qxacc                 sazonovborislav         zeleniyejik
+drta26                   machetepower            school                  zelenskaya784
+drugartur5               makarenkoevgen1997      scotlandshevchuk3213    zenagerbin
+dsmakovenko              makarenkokirill         screamoviolence89       zesty190491
+dtkachov982              makarovserg2            sema                    zhenyausubov
+dudkad96                 makcchulynin            semmmi1990              zhenyazavgorodniy
+dudkin31v                makcgod1                seniorinamari           zhorniakvalerii
+durakovu95               makcvadim123            senyaemec               zhorniknata86
+dusket232888             mako08021987            serega1980ax            zhukov9523
+dutovvitvic              maks7294                serezhaseo              zirenkoas
+dvalent980               maksantov               serg15577330            zpawn
+dvasilenko08             maksbatrak1222          sergefontain            zubkodenys
+dzhartyds                maksim4091838           sergejgritsay
+sixfingers91@helium /home $ cd filonitta/public_html/exam/js/
+sixfingers91@helium /home/filonitta/public_html/exam/js $ cd -
+/home
+sixfingers91@helium /home $ cd /home/asmodeus/public_html/linuxlectures/
+sixfingers91@helium /home/asmodeus/public_html/linuxlectures $ cd ../../../filonitta/public_html/exam/js/
+sixfingers91@helium /home/filonitta/public_html/exam/js $ cd /
+sixfingers91@helium / $ ls -la
+total 5116
+drwxr-xr-x   22 root root    4096 May  2  2019 .
+drwxr-xr-x   22 root root    4096 May  2  2019 ..
+-rw-------    1 root root    1448 May 14  2013 .viminfo
+drwxr-xr-x    2 root root    4096 Sep 15  2017 .well-known
+drwxr-xr-x    2 root root    4096 Dec 21  2020 bin
+drwxr-xr-x    3 root root    4096 Feb 12  2019 boot
+drwxr-xr-x   10 root root    2480 Apr  1  2021 dev
+drwxr-xr-x   72 root root    4096 Sep 19 11:44 etc
+drwxr-xr-x 1336 root root   45056 Sep 19 11:44 home
+lrwxrwxrwx    1 root root       5 May  2  2019 lib -> lib64
+drwxr-xr-x    2 root root    4096 May  2  2019 lib32
+drwxr-xr-x   12 root root   12288 May  2  2019 lib64
+drwx------    2 root root   16384 Dec 27  2012 lost+found
+drwxr-xr-x    2 root root    4096 Dec 10  2012 media
+drwxr-xr-x    2 root root    4096 Dec 10  2012 mnt
+drwxr-xr-x    3 root root    4096 Oct  1  2019 opt
+dr-xr-xr-x  147 root root       0 Apr  1  2021 proc
+drwx------   20 root root    4096 Sep 20 12:15 root
+drwxr-xr-x   17 root root     660 Apr  1  2021 run
+drwxr-xr-x    2 root root    4096 May  2  2019 sbin
+dr-xr-xr-x   11 root root       0 Apr  1  2021 sys
+drwxrwxrwt   19 root root 5095424 Sep 21 16:45 tmp
+drwxr-xr-x   14 root root    4096 Jan 24  2017 usr
+drwxr-xr-x   12 root root    4096 Oct 21  2016 var
+sixfingers91@helium / $ cd
+sixfingers91@helium ~ $ mkdir public_html
+sixfingers91@helium ~ $ cd public_html/
+sixfingers91@helium ~/public_html $ mkdir threads
+sixfingers91@helium ~/public_html $ cd threads/
+sixfingers91@helium ~/public_html/threads $ git init
+Initialized empty Git repository in /home/sixfingers91/public_html/threads/.git/
+sixfingers91@helium ~/public_html/threads $ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        index.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+sixfingers91@helium ~/public_html/threads $ git add index.html
+sixfingers91@helium ~/public_html/threads $ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   index.html
+
+sixfingers91@helium ~/public_html/threads $ git commit -m "created new site"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'sixfingers91@helium.(none)')
+sixfingers91@helium ~/public_html/threads $ git config --global user.name sixfingers91
+sixfingers91@helium ~/public_html/threads $ git config --global user.email sixfingers91@gmail.com
+sixfingers91@helium ~/public..
+git: '..' is not a git command. See 'git --help'.
+
+The most similar commands are
+        am
+        gc
+        mv
+        p4
+        rm
+sixfingers91@helium ~/public_html/threads $ git config user.name
+sixfingers91
+sixfingers91@helium ~/public_html/threads $ git config user.email
+sixfingers91@gmail.com
+sixfingers91@helium ~/public_html/threads $ git commit -m "created new site"
+[master (root-commit) 0c6ed67] created new site
+ 1 file changed, 8 insertions(+)
+ create mode 100644 index.html
+sixfingers91@helium ~/public_html/threads $ git log
+sixfingers91@helium ~/public_html/threads $ ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/sixfingers91/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /home/sixfingers91/.ssh/id_rsa.
+Your public key has been saved in /home/sixfingers91/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:CXefbKFNWhBcZH+VLtNt+C+bPMzG/9W3uIi0aSrD6JE sixfingers91@helium
+The key's randomart image is:
++---[RSA 2048]----+
+|         .o++   o|
+|          .o . ..|
+|      . . . + +.o|
+|       o o O =.+o|
+|        S o * oo |
+|    .      .    o|
+|   Eo    .   +  =|
+|   ..+  ..+ ..O.=|
+|  ..  o.o+ . +=*+|
++----[SHA256]-----+
+sixfingers91@helium ~/public_html/threads $ cat ~/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCZOdCMf1TnVWGajkiRcCwGkErIUoFhmA4dgv9VHwhWu+vFx6NA+yE6+p11pgVQpoo4a4XE+6rnOdjbNJjfwv22XBMs8qAZW7VkDSESZZL0IPAjuglFBCpxmzfsSneWkIPhl1Hl1yFHNOPuni24l8bZ6ijn3o1lHhHJo2G+iTJln00Yx8ZEl29DjMvkiAoWcmiZ4N6V/o5TaggIbUQxSEzL05X93K5nYXxZyAIO6bJHuXW+8KUpefuEhohYKtoyYjVWDWNBTrYMh2fo2IonsxAEFJOS2G00JUPZs+90GhcfWpQ4RJefsaZKY30TMm/dRVUZGsTBWyhAMk6n7D0mXIpj sixfingers91@helium
+sixfingers91@helium ~/public_html/threads $ git remote add origin git@github.com:EugeneGrom/A-level-git-vim2.git
+sixfingers91@helium ~/public_html/threads $ git remote -v
+origin  git@github.com:EugeneGrom/A-level-git-vim2.git (fetch)
+origin  git@github.com:EugeneGrom/A-level-git-vim2.git (push)
+sixfingers91@helium ~/public_html/threads $ git status
+On branch master
+nothing to commit, working tree clean
+sixfingers91@helium ~/public_html/threads $ git push -u origin master
+The authenticity of host 'github.com (140.82.121.4)' can't be established.
+ECDSA key fingerprint is SHA256:p2QAMXNIC1TJYWeIOttrVc98/R1BUFWu3/LiyKgUfQM.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'github.com,140.82.121.4' (ECDSA) to the list of known hosts.
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 287 bytes | 287.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To github.com:EugeneGrom/A-level-git-vim2.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+sixfingers91@helium ~/public_html/threads $ ..
+-bash: $'\321\216..': command not found
+sixfingers91@helium ~/public_html/threads $ ..
+-bash: $'\321..': command not found
+sixfingers91@helium ~/public_html/threads $ cd ..
+-bash: $'\321\201cd': command not found
+sixfingers91@helium ~/public_html/threads $ cd ..
+sixfingers91@helium ~/public_html $ mkdir Homeworks
+sixfingers91@helium ~/public_html $ Homeworks/
+-bash: Homeworks/: Is a directory
+sixfingers91@helium ~/public_html $ cd Homeworks/
+sixfingers91@helium ~/public_html/Homeworks $ git clone git@github.com:EugeneGrom/A-level-git.git
+Cloning into 'A-level-git'...
+remote: Enumerating objects: 51, done.
+remote: Counting objects: 100% (51/51), done.
+remote: Compressing objects: 100% (46/46), done.
+remote: Total 51 (delta 3), reused 51 (delta 3), pack-reused 0
+Receiving objects: 100% (51/51), 4.26 MiB | 4.12 MiB/s, done.
+Resolving deltas: 100% (3/3), done.
+sixfingers91@helium ~/public_html/Homeworks $ ls
+A-level-git
+sixfingers91@helium ~/public_html/Homeworks $ cd A-level-git/
+sixfingers91@helium ~/public_html/Homeworks/A-level-git $ ls
+123.txt  HW_1_21.08.23  HW_2_24.08.23  HW_3_28.08.23  HW_4_31.08.23  HW_5_04.09.23  HW_6_07.09.23
+sixfingers91@helium ~/public_html/Homeworks/A-level-git $ HW_1_21.08.23/
+-bash: HW_1_21.08.23/: Is a directory
+sixfingers91@helium ~/public_html/Homeworks/A-level-git $ cd HW_1_21.08.23/
+sixfingers91@helium ~/public_html/Homeworks/A-level-git/HW_1_21.08.23 $ cd ..
+-bash: $'\321\201\320cd': command not found
+sixfingers91@helium ~/public_html/Homeworks/A-level-git/HW_1_21.08.23 $ cd ..
+sixfingers91@helium ~/public_html/Homeworks/A-level-git $ cd ..
+sixfingers91@helium ~/public_html/Homeworks $ cd ..
+sixfingers91@helium ~/public_html $ cd ..
+sixfingers91@helium ~ $ cd ..
+sixfingers91@helium /home $ cd .
+sixfingers91@helium /home $ cd public_html/
+-bash: cd: public_html/: No such file or directory
+sixfingers91@helium /home $ cd
+Display all 1334 possibilities? (y or n)
+sixfingers91@helium /home $ ls
+a0956673424              dzinnorma2              maksimkisil164          sergejlevsna
+aalexeigolishev          ebubyr15                maksimkravchenko190601  sergey23snpua
+abnormallydev            eeks38066               maksimmoroz67           sergey441987
+achakubai                egorbessalow27          maksimtkala             sergeycherevatyi
+advo737                  egorostroukhov          maksimus111mn           sergeyostapchuk
+adyn966estonk            eguzkia6                makspoznyak8            sergioserega33
+aelizev                  ekaterinapodlyjnaya     maksteryohinua          sergiypersianov
+afanasyevvn              ekaterynakravchuk       maksveremey4ik          sergsmbox
+affrit393                ekazachkovakh           maksymihnatenko         sergstukachov
+afursa773                elenasemenukha          maksymind               serhiibezsonov
+agarkovkirill76          elenatropanets          maksymkononenko         serhiikorzhov
+agavrilenkoandrey        eliseyka842             maksymkonyaev           serj777front
+ahmedovnamik             elizabethcalmau         maksymlinynskyi         seroga2801
+akhm440                  elizabethholovko        mantiy2017              serzhmalakhov02
+akinshina199619          elizavetasalvador406    manyavas1987            shakh1998v
+akolesnikov040498        elizpacific             maraevaveronika         shaposnikova2212
+akovalenko1979           ellakurmaz              marakanec1981e30        sharkadivaleria
+aksenovaviktoriia        ellastra37              mariaevtushenko         shaturnyj120293
+aleksandrauavas          elmirnew123             mariafadeeva4155        shcherbakevalex
+aleksandrgogosha         elpantheros             marianovik3             shepenyovserhii
+aleksandrgolenko         emfar1993               mariasavina1701         sherstyukalex
+aleksandrkamenchuk91     enferum03               marijasverdl            shevanyako
+aleksandrpolishchuk82    eqvconst153             marijuana12y            shevchenkoalbert
+alekseikamynin           eraush37                marinakolosova951       shevchenkoartur745
+aleksejmikhajlovs        ernestsobolev2006       marinarrrr231           shiatiyvlad
+alenaelena1301           errma36524              marinka1610             shigalevsk
+alenalednyova            esmira2008              mariuksergey            shiiitilova
+alenalogvinova20134      evgeniastreliaeva       mariyamokanik           shilov0209
+alenamoskovakh           evgeniy                 markkolenov13           shinkarenkocmds
+alenanakonechnay16       evgeniykolodko          markov1                 shlyapin8848
+alenashvareva123         evgeniyonishenko93      markovolchenko          shmatkodmitriy07
+alenka85ivanova          evgenshalomov           markrovensky            shokolenko
+alexanderkonorxv         evheniev                marnidor                shpilevoy29
+alexanderpokr            evilalien37             marshalcopy1509         shurik8505
+alexanderpristavka       evvkakareka             marshch188              simoshasarkis
+alexandertupkalo1        ezapadinsky             maryansmerchinskiy      six994guv
+alexandervozorom         ezerskiyigor2000        maryluis613             sixfingers91
+alexandr1992nikolaevich  falchenkoslavon         marynadukhnich          skladinstrumenta
+alexandragaag            fanlion                 marynakameneva          skladlamp2012
+alexandrbelan23          farkashyaroslav         marynazaremska2012      skluchnick2015
+alexandrillichov         fatimagulomova          mashanik2010            sklyarovqwert
+alexandrromanenko        fedets                  mashapichienko          skorik08
+alexandrsidorenko1492    filonitta               masterpovar1985         skrunnik.kirill
+alexandrsol23            first00141              matvejslobodin          skrypnikandrii
+alexbatalin55            firstolwb16             matveysubbotin89        slabuhodanil
+alexbott0212             flammeten               mavip95                 slasev903
+alexderevyanko91988      flipua71                max                     slavikair2020
+alexeypodorozniy         foreverfitkh            maximkhodonin           slavon91101
+alexeysleptsov89         forsoctask              maximkosteley           slonyamant
+alexeytreglazov          forzub                  maxkuzubov55            smakvlad
+alexeyvdovenko22         frendt                  maxmorrel777            smalakey
+alexfiendish             freshskelet             maxusan0                smaryna111
+alexiyv                  frikcio67               mazuta282               smaug3003
+alexkrt34                frolenkovaaa            mbkkong                 smmbox
+alexkurakin2003          frycher02               mcdenis2000             smykroman99
+alexsandrsasa007         fsn9792                 mcsemensky              smykuliasmy
+alexsemenyshyn           ftp                     mdfcnvsn                snachala1995
+alexskitz1995            fursovedward            mediol26                snurnikovdima
+alexwork1771             gaaraqwer               meetford                soap0811
+alievtyme415             galaidaarseniy          melamori1605            sofiiabalaba
+alisakrout               galja2908               meleshkoa99             sogkaban
+alisamahomedova98        ganjavova91             melmakmelmak75          sokoldimon0509
+alishasergeeva94         garknn                  melmaks1488             solovyovbogdan10
+alkapsiholog             gavkat                  melniknc                somchynskyiroman
+allias5000               gennadysht              mercy200111             somoff2007
+aloneanderson            geolook                 meteorologsio           sorax93
+alsapozhnikov84          gerbyboyz               mfdok4388               spetrenko91
+alyonagluhoded           gfhfkjy31               mihailbahmut            spheroom
+alyonaivanovakh          gfksx7                  mikegavrylenko          sryaboshtan
+alyonakukhnacheva        ghostfalconkr           mikkyyoung24            ssaalliiyy9977
+anastasia138311          gichkins                milad020197             staciarudenko
+anastasiagunbina94       gjgdch36                milenavasylyeva         stanislavdanylov
+anastasiapochta96        gladyscheva             milkavilka007           stanislavkuznietsov2015
+anastasiatabaluk         glebkhivrenko           minhchik4603            stasmyron2018
+anastasiiatsybezova      glmk354                 mironenko2811           stasnazarov71
+anastasiyawelcome        gnatarov1992            mishahorod              stassheludko16
+anatoliitregub           goga06                  mishakalashnikov97      stasvladlenko
+anatoliizalizkii         golaleks                misterdobrovolsky2017   stepa9chfcars
+anatolio7z               golembievskijj          mistik200114adv         stlinden11
+anatoliylaktionov        golena83                mitrofanovanatali03     stogniy9797
+anatollko91              golovachev114           mkalash177              stoliarenkoa
+anchenmamina             gorbanaleksandr         mkbaranovskyi           storchak850
+ancr0999                 gorbatenkomary11032002  mkristiblack            store
+andgorbachov             gorlovanleonid          mmertalagoz10           strelchenkovladimirs
+andless1995              gosha270                mnv7650                 strilkts
+andreevilya1998avm       gothicangel1331         moiseevartem93          stripkoyulian
+andrej_mia               goverla123456789        moloko666777            stukashovaevgeniya
+andrejmatveev2602        grachnikol              monah1744               stupitskiymaksim
+andremak1988             grandlzm77              mopnex14                style531
+andrewpulyaev            gregponomarenko         morozelenap             styleganiev
+andrewsharapow           grisha1996111616        mournexx                successfultowork
+andrewvoloshin85         gubinskiyaleks          mozartneverdie          suharevnv
+andreyfaichuk            gukovskayajane          mrholmsxdd              super071281
+andreygorbanyov7         guruchannel21           mrkoll1113              superbogdan68
+andreykurilenkoo         gusev28                 mrlezalit               superkholodnyak2019
+andreymyphot             halynaliashenko         mrradkevych             superpopayman
+andreynagornykh2004      helvas1998              mrtrader92              superprorab92
+andreyshevchenko1177     hexpnctb                msahno16                suslovd52
+andreyyl1985             hhhamon91               msalaev468              svampx
+andrii5030               hitlifeme39213          msemerni                svetanochka
+andriimandrikov          hlogsatyr               mslavik0322             svetashmidt93
+andriklsd                hludeevandrey1980       mtsehovsky              svetlana2104
+andruefim                hodobe19                munin-collect           svetlanadenisenko
+andsimen                 holevchukevgeny         muradabdulaev1998borec  svetlov1805
+anetttta22               holovatiuknastia        muroar91                svigipigi
+aniepavlenko             homovych                mv0101w                 syashevtsova
+anikinator               hovorovskiid            mvadim3104              syava_trader
+anisagoan                htmlcat5                myagkiypavel            tadianua
+ankuddanil99             hugavlad                mycleverowl             taisiiapomazan
+anlukina24               hvostamv                mykhailoserhiichyk      taisiyachaika
+annababicheva            ibanusia                mykolanovikov91         tamara1kharkov
+annadarahan              ibnajub                 mykytapidhornyi         tamaranguyen123
+annakarelia77            ignatovlad95            mykytapostnikov         tancur1975
+annalav2100              ignatovrostislav1337    mypochta0330            tanjamikhnva
+annamoskovskaya14        igor3821                nacigulev               tantsurm
+annashport11             igorbaranchuk333        nadiiadiakova           tanuska
+annataranenko01          igorchernyaev1999       nadiialytvyn            tanya3743
+annskaylove              igorgerasimenko89       nadiyadekhtyar          tanyamorozova777
+antiptana                igorred29               nakonechnadiana210      tapetrosian
+antispop1                igorshulgin19081994     nalivaikoms             tarantinvitaliy
+antohagryb               igorsverdlovsk          narizhniyaleksey92      tarassolanik
+antollika                ihorstolovyi            nasta5666666            tarcex
+antonbragar              ik0077ik25              nastiamisiura           tarnovskidj
+antonenkoanna2020        iliaguriev8             nastyabr194             tatevosyan01
+antonplonskii54          ilichovvladislav        nastyapalamarenko02     tatlozenko
+antonpyvovarov           illyapikulyak28         natalichoice2           tatyanaslysh
+antonstepkin             ilmpham949              nataliiasaltan          tayasl1999
+antonszn                 ilonabirchenko          natashanatasha1395      tbul130599
+antontsyatska            ilonakobert91           natella1989and          temaw25
+antoxapopovich           ilovetribalcom          naytilys685             tetianamartseniukua
+anzhelachv               iluhajuhnel             nazar91187              thedanilonpro
+apc71405                 ilunyakozyr             nazary21                theidolsinsideus
+apivovarskii91           iluxan7                 nazzzarr                therealdk717
+aprach99                 ilya080104              nechaino                three379344
+aqwed11pantera           ilya3677164             nekit201200             tim4enkoekaterina99
+aradelka                 ilyakorzh95             nemogyvhs               timchenkod88
+arayennet                ilyashian               nesheretskaya13         timurmorozov82
+architeczp               ilyavi02                nesterchukolka21        tishkov834
+aremvans                 impelpromkh             new                     tkachalena0803
+arkaady23                inbonoveritas28         ngarnaga2               tkalindima2013
+armfighter89             inboxema2015            ngrizzzli               tnnkamyshanova
+artemdjtom               inboxlex                ngungonngon             tolikhrechanyk25
+artemlepyoshkin          inerubatskiy            nickolaydaragan         tolstoyvitaliyv
+artemmoroz0606           inkola1984              nickolaypchelin         tomen4ik
+artemnesterov1991        inna180887              nikaniks57              tomrain78
+artemoncheg90            inna42320               nikitagurg              toriakozenko
+artemosypov2020          innaerkh                nikitakoptevv           tortello1986
+artemschannel2           innahorbovtsova         nikitanavrockij         toryanik
+artemstanislavenko       inotfest                nikitashkarubo7         totalgol2015
+artkola122               inventory               nikitavoronichev        totalion007
+arttodoc                 invise24                nikulnikovz2000         tovgolstrim
+arturdrozdov11           iriinademina            nikusichenko            toxa1507
+arturnebotov13           irinabolbat98           nobleelvengod           toxasarts
+arturpetrokas            irinayaremenko2804      nonickban               toxaztoxa
+arturrigas1997           irnmatush               nortenoscs              trimeump
+artursamoylovkh          iryna113                nosovichok              trip
+asenkabsq                isakhatska              novikovoleg721          tristan535007
+ashurovvadim7            itimosenko307           nplakhotnaja            trofimchyk61082
+asmer                    ivan777original         nrostotopik             trytata
+asmodeus                 ivanik10708             nuncupandi              tsekhmistrog
+astanalexx               ivankalinin             nussik99                tsekhmistrov2799
+astarunov                ivanklepinin00          nyshnui                 tsymbalenkoolga
+aubanca                  ivankoshevoy2           oalekhnovich            tt
+autofix                  ivanmandrikov           obatozhnyi              turchinanton2
+avas34497                izikov649858zhenya      ogerwood3300            tvonko
+avdartall                izokasya                oksanazhar99            two529932
+avror2503                jankozhyn               olchavalakh             tykan4uk2010
+avtomix555               jarohenkovlad10         oldhatecuckold          tykhyiandrii
+awlex                    jekakharkov73           oleg1990moskalenko      uagoalkeeper1
+azadorozhniy90           jekamokan1994           oleg8995                uchupryna1991
+azazelinter              johnsmornov             olegbalyuk92            uhimenkouhim
+azovskiykit              jrlapayn1               olegby64                uhmeplay811
+badgitarplayer           juliyasolovyova16       olegget97               unicorninpants
+baglaevsergei            jurgenostroverkh        olegking76              unrecog_izable
+balotelli357951          kacdenis52              olegkropivka5           user0669768520k
+balystiy                 kalinenkoa01            olegyourbondarenko      usern1861
+bandydan                 kallaurdaria            oleksandrgnap           usichenko91
+barminenock              kaluzhniynikita         oleksandrmatvieiv       vadimbatvinev
+baskovaleksey777         kameliaaska77           oleksiiprotyniak        vadimcherevatenko
+bayevaleksey             kamuongua               oleksiivasylevskii      vadymriabichenko
+bazilevichkirill         kanekane1525            oleksijltvn             valcevanatolij
+belous50409              kapranviktoriia         oleksiysorokin17        valeraradchenko2018
+belval848                karachevcevilia         olenaradiuk             valeriysmk
+belyaevayarina           karataievpro            olesyabrazhnikova11     valeriyykolesnikov
+bennij96                 kardashda               olesyagutneva           valerocka1995
+bezginovaolga            karen                   olexandrkushniruk       valik009
+bigirodion2005           karinabulavintseva      olexiyyurchenko         valmel2006
+bilichenkoaleksandr      karinadmd1              olga6104959             vanya9717
+bkirilenko7222           karinakarpenkok         olgabogatska            varvarahuza
+bladeandsoul322          karinalabazova          olgalaim101             vashchenkovladyslav95
+blokhin98d               karinavitsentovych      olgapistryak            vashe4ko
+bodyashebet              karishamarochkina       oliferchukaleksandr     vaskak0007
+bohdanius22              kartohaon               oliinykrus              vasylenkoirene
+bohdankavok              kartur21081998          oliynykoleksandr1984    vatu500
+bohdansudenko            katelove30stm           olizarenkovl            vds71828
+bohdanuk.hr              katetkachenko90         olliashenkolo           vedazzz28
+borovoy06nik             katjarost1501           oloktionov1985          vegoskh
+borovoyddd               katrin                  olshanskiy44            veloolen
+borovskoy99              kenshinshinki           omela91                 veraarchitect23
+borysenkoa4              kerrad27                omeller1982             vetal4313
+bos007                   khlyakinandrey          omelyanenko108          vicoolgorlova
+boykodmitrij             khmeleva_olga           one314avatar09          vikamaximovich
+bqnote197                kichkoua                opolyanchikova23        vikaromantsova
+braunvlad981             kindratishin2001        orbismgm                vikivikivikikoryagina
+brkmkndrmz               king21james21king       orysiamagon45           vikprevar
+brutix80                 kircherkashin           oshabliy                viktkyrov
+bsvetik1341              kirichenkovitaliy89     ostapenko260691         viktoria9914
+bublykyevgen             kirilldenisovkhar       otticemilch             viktoriafolkina
+bulat032293              kirillomelcenko411      ovcharenkosi            viktoriyashumeyko
+bulbaoleksandrsasha      kirrdann                ovsyanikgarik           viktorrrriia
+burito040                kiruchka050512          oxanatesher             violettashapik1
+butovanna19              kishinskiyy             oxxximironoxxximiron    violkakovalenko
+bv28dog                  kisilvlad0414           paffos001               viryutinyegor
+bylkovd                  kkravets1018            palchinskij19           vit91112
+cancermakh               klanskaa7               panthervsanyone         vitakram29695
+caramelpie78             klddarina               partizanwar1917         vitaliiivanov1983
+cavaljn2020              klint1091               pasha0kovalev           vitaliipysanyi
+cfsangvinik              kliucharovvlad          pashaalexandrov1996     vitaliyshapoval1991
+challenge                kljjuzka2               pashabaydak             vitalypolish
+chda7911                 kmakienko1990           pashakurko              vitek870918
+cheart1308               kmishka1997             pashazpua94             vitekmonstr
+chelovekprostoi19        kogna24                 pastushenkovladislav21  vkamskow
+cherniavskaya            kolomietslion           pavelkramarenko106      vkormilets
+chertikdaha              kolya220200             pavelsosiurka           vkutsar89
+chestets                 kolyashevelinda         pavlechkoserhii         vla23sta
+chiefmakflay1            komarovaleksandrkh      perfectkperformance     vladaorel21
+chuvetal                 kononenkov337           peryatony               vladbabich1
+coins                    konoplyaaleksandr       petrb1990               vladbehim
+coins.tar.bz2            konstantinkudrik        petrovilya9891          vladcinfo
+conmeo1998x              kontrec91               petrsupreme             vladik
+cooler5339               korniienkoviktoriiaa    petrunya7778            vladikdavidov98
+courier                  korsarius846            phamlamptl              vladimir45822
+crmsystem                korshikov98igor         phodin                  vladimirdaragan5
+crng                     korsunovegor75          phpzei                  vladimirnechetov
+cromeo780                kosmoaist               pika17071997            vladisla1988
+cyrmailbox               kostiantynshevtsov      pimenovaaa12            vladislavabogaturova
+daglarovartem            kostinmisa9             planet                  vladislavdyachenko00
+dahaevtushenko2018       kostiusta               platonovdima1312        vladislavmarkov05
+dailyformula             kostya120288            plutisko                vladislavnadolko
+dalassolo                kostya1cn               pluzhnykalex            vladislavshpilka
+damat1992                kotenkobogdan37         pocpoc9257              vladislavstroy
+dance19love              kovalenko261199         podadi2003              vladkalchenko08
+danessi101               kovalenkovm9            podkolvik               vladkhardi
+daniijele                kovalev2014aleksandr    podtiaroba              vladmorgun52
+daniilbelozub123         kovatatiana             pollyyyakuzminova       vladpn91
+daniilhan27              kowalewadaria2012       poltavskiyalexander     vladryk84
+daniilmilonga            kozelden4ik             polus000081             vladshekhovtsov93
+danik29052005            kozlovskyibohdan        ponomarenko147          vladwolf
+danilshram29             kppmatvienko            popserg5555             vladymyrkhabarov
+dannaleevan              krabzzenberg            ppmarckin               vladyslavapylypenko
+dartonetorr              kraevskiy171717         prayforthedeadhardcore  vladyslavmakarenko08
+daryapelpe10             krainiukmaxym           primak90ua              vladyslavmartynov
+dashallavrova8           kramarenkoden83         pringls777              vladyslavsmirnyi
+dashatreshchalova        krava9824               prisenkoinna            vlas4783
+dav_pr                   krispanda3131           pro2html                vlisitskiy
+ddimitriuss              kristinaachi            prohorantropov          vlmedved1661
+dead1990bb               kronys4221              protuberanec2023        vmv9753
+delttol                  krupenkoandrei1991      prozorovakarina17       volckov9927
+demidsv2                 krutasinna              prylutskayevgeniya      volddemar4ik
+deminanatali22           kseniaromanovna92       psaenko9                volkovmakc1993
+denev2211                ksu                     psv                     volodymyrdzun
+deniiserbull             kubi4140896             pumbasl60               volovikdmitriy
+denis167518              kuchademan              punksunited             voronovri1994
+denischupikov            kulibaba19012001        pusachev                vovagrabarev
+denisdudin50             kulikgeorgy7            qa                      vovakovrigin007
+denisemetsgo             kupriianovvladyslav     qvadro8888              vpushkar2730
+denisgolovaty            kurashov1307            r6941919                vssergieiev
+denislisitsaua           kurnosovltd             radchenkodenis1990      vtlnkhn
+denismednov              kurskiy315920           randomrandom4617        vveraaiivanovaa
+denissphinxo             kushnarew               rarebizzinator          vytrishkovlad
+denissvich1510           kuzyaevdima1903         rastafaraisolution      wanua3
+denistsyban              kvasovdim17             ravildos90              wassya999
+denisyuriewich19062003   kvzhyrko                rbr2063                 were23as
+denkuchma10              kyrylenkovaleriia1      rcerevko60              werpavel
+dennispariyar            kystic2102              rebrovich1              wifi
+dentyta5000              labunskaalina           redmi4444r              wiking1317
+denysbasanets            laktionovamarina        reshetniak1993          wincher2016
+dgorskaya2003            lancevrot107            rest                    wingeeddd
+dianakovtun22            langovets               rezhenkovaanna2017      wiseacreserj
+diemianovaleksandr       larinhe                 rickhlushko             wjjwwwj
+dieselpro48              larychevport            robota1975              xfighe
+dima17lit                layeraz                 roevtushenko            xokapwnz
+dimabondarenko2404       lbajdull                romakolesnyk20001       xyutwist
+dimachernyak228          lebedenko619            roman1985buday          yagoding124
+dimagrechkin8            leeroyhar               romandemianenko192      yakushinaolga89
+dimahmyz                 lehareznichenko2        romanenkoleksandr       yalisanda
+dimakolbasov             lehasakun               romanlukyanenkorl       yamasimka83
+dimakozhurin28           lemacsva                romannagula92           yanatishchenko
+dimapd5087               lenakirilenko13         romannenakhov08         yand199627
+dimapotqpenko432         leraradchenko818        romansemionov111        yankevich2002
+dimebag105               lesopotamus1            romanxboyko             yarikpiskun41
+dimetris92               lesovoyye               rostickx                yarmoxa
+dimihaylik               lev3lev050895           rostyslavsyniuk         yarokaro5
+dimonychkormyshev        levy10811               rovalerjevich           yaroslavakpp
+dimtimoschenko2015       lexaszhahov             rozmariav               yaroslaw6788
+dimtimoshenko96          leybovanton             rudichofficial          yashach2005
+djkarapuz                likeishutin             ruslankobozev           yehorpetryshyn13
+djon7711                 likelovesveta           ruslanloladze           yelizavetabarkar
+dkhlopina                lilydementeva29         rustamli888             yeriominvova
+dkskipi                  limoncrazy97            ruznets                 yevheniiapetruk
+dmbor123                 linadmitrievna2017      s7443087                yevheniiivanisenko
+dmitkantemir             lipovoyarseniy          safonovdavid30          ymaralamov
+dmitrijbaraban           liprikonchi             saggb14                 yrmn10
+dmitriylementa1209       litvind443              sagitovavika2016        ysasha9393
+dmitriymalikov21         llolka988               salesmvitaliy           yuliakokodzey
+dmitriypodgora           lozzeal                 samochka1987            yuliamelnikgm
+dmitriyvozhzhov          luisiana0404            samsonvetall            yuliiasemets
+dmitriyzaika97           lukashlukash12          sandrozhilenkov         yuriikhomich
+dmkorshunov2013          lukienkoigor411         sandrvik                yuriydzyadukh
+dmstebenev               lukirinyuriy            sanyawarlord            yurockx
+dmydymytrov              lulyabay                saparinoleg             yusov2805
+dmytroastapow            lumeryanna              sapemiaen               yvs9393
+dmytrolisovskyy          lunar1645               sasha7737209            zacheparostislav
+dmytrososedko            lunyovevgeniy           sasha_zlobin            zaharapple88
+dobrovolskiy_2001        luxurysergey            sashamirniy02           zalupinet
+docidemidova             lyadnova2312karina      sashavazhov             zanusilker
+dolovesv25011992         lyalyakharkov101        sashina51               zaporozhanvika
+dosystemopt              lykin4ik                savchenkoartem1         zavada02
+doxis32123               lyndinaulia120          savchenkosergej78       zaxar322010
+dponomarenko51           lysenkoa88              savinilyada             zedkonstantin
+dragun2552               lzedimitri7             savitskyi90             zekagorobey
+dronviktoriia            m4qxacc                 sazonovborislav         zeleniyejik
+drta26                   machetepower            school                  zelenskaya784
+drugartur5               makarenkoevgen1997      scotlandshevchuk3213    zenagerbin
+dsmakovenko              makarenkokirill         screamoviolence89       zesty190491
+dtkachov982              makarovserg2            sema                    zhenyausubov
+dudkad96                 makcchulynin            semmmi1990              zhenyazavgorodniy
+dudkin31v                makcgod1                seniorinamari           zhorniakvalerii
+durakovu95               makcvadim123            senyaemec               zhorniknata86
+dusket232888             mako08021987            serega1980ax            zhukov9523
+dutovvitvic              maks7294                serezhaseo              zirenkoas
+dvalent980               maksantov               serg15577330            zpawn
+dvasilenko08             maksbatrak1222          sergefontain            zubkodenys
+dzhartyds                maksim4091838           sergejgritsay
+sixfingers91@helium /home $ cd sixfingers91/
+sixfingers91@helium ~ $ cd public_html/Homeworks/A-level-git/
+sixfingers91@helium ~/public_html/Homeworks/A-level-git $ rm -r A-level-git
+-bash: $'\321\201\320\320rm': command not found
+sixfingers91@helium ~/public_html/Homeworks/A-level-git $ rm -r /A-level-git
+rm: cannot remove '/A-level-git': No such file or directory
+sixfingers91@helium ~/public_html/Homeworks/A-level-git $ cd ..
+sixfingers91@helium ~/public_html/Homeworks $ ls
+A-level-git
+sixfingers91@helium ~/public_html/Homeworks $ cd A-level-git/
+sixfingers91@helium ~/public_html/Homeworks/A-level-git $ cd ..
+sixfingers91@helium ~/public_html/Homeworks $ rm -r A-level-git
+rm: remove write-protected regular file 'A-level-git/.git/objects/pack/pack-c9f68ce5cad3cf51052d5a13fd2ae4ac086f2f7c.idx'? yes
+rm: remove write-protected regular file 'A-level-git/.git/objects/pack/pack-c9f68ce5cad3cf51052d5a13fd2ae4ac086f2f7c.pack'? yes
+sixfingers91@helium ~/public_html/Homeworks $ ls
+sixfingers91@helium ~/public_html/Homeworks $ git clone git@github.com:EugeneGrom/A-level-git.git ./
+Cloning into '.'...
+remote: Enumerating objects: 51, done.
+remote: Counting objects: 100% (51/51), done.
+remote: Compressing objects: 100% (46/46), done.
+remote: Total 51 (delta 3), reused 51 (delta 3), pack-reused 0
+Receiving objects: 100% (51/51), 4.26 MiB | 2.37 MiB/s, done.
+Resolving deltas: 100% (3/3), done.
+sixfingers91@helium ~/public_html/Homeworks $ ls
+123.txt  HW_1_21.08.23  HW_2_24.08.23  HW_3_28.08.23  HW_4_31.08.23  HW_5_04.09.23  HW_6_07.09.23
+sixfingers91@helium ~/public_html/Homeworks $ git status
+-bash: $'\320\277\321git': command not found
+sixfingers91@helium ~/public_html/Homeworks $ ls
+123.txt  HW_1_21.08.23  HW_2_24.08.23  HW_3_28.08.23  HW_4_31.08.23  HW_5_04.09.23  HW_6_07.09.23
+sixfingers91@helium ~/public_html/Homeworks $ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+sixfingers91@helium ~/public_html/Homeworks $ ls
+-bash: $'\320\264\320\264\320\264ls': command not found
+sixfingers91@helium ~/public_html/Homeworks $ ls
+123.txt  HW_1_21.08.23  HW_2_24.08.23  HW_3_28.08.23  HW_4_31.08.23  HW_5_04.09.23  HW_6_07.09.23
+sixfingers91@helium ~/public_html/Homeworks $ git fetch git@github.com:EugeneGrom/A-level-git.git
+-bash: $'\320\277\321\210git': command not found
+sixfingers91@helium ~/public_html/Homeworks $ git fetch git@github.com:EugeneGrom/A-level-git.git
+Warning: Permanently added the ECDSA host key for IP address '140.82.121.3' to the list of known hosts.
+remote: Enumerating objects: 7, done.
+remote: Counting objects: 100% (7/7), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 2), reused 6 (delta 2), pack-reused 0
+Unpacking objects: 100% (6/6), done.
+From github.com:EugeneGrom/A-level-git
+ * branch            HEAD       -> FETCH_HEAD
+sixfingers91@helium ~/public_html/Homeworks $ git pull
+From github.com:EugeneGrom/A-level-git
+   4db5673..ae03f2b  master     -> origin/master
+Updating 4db5673..ae03f2b
+Fast-forward
+ 1234.txt   |  1 +
+ index.html | 16 ++++++++++++++++
+ 2 files changed, 17 insertions(+)
+ create mode 100644 1234.txt
+ create mode 100644 index.html
+sixfingers91@helium ~/public_html/Homeworks $ ls
+123.txt  1234.txt  HW_1_21.08.23  HW_2_24.08.23  HW_3_28.08.23  HW_4_31.08.23  HW_5_04.09.23  HW_6_07.09.23  index.html
+sixfingers91@helium ~/public_html/Homeworks $ cd ..
+sixfingers91@helium ~/public_html $ ls
+Homeworks  threads
+sixfingers91@helium ~/public_html $ cd threads
+sixfingers91@helium ~/public_html/threads $ ls
+index.html
+sixfingers91@helium ~/public_html/threads $ start index.html
+-bash: start: command not found
+sixfingers91@helium ~/public_html/threads $ start index.html
+-bash: start: command not found
+sixfingers91@helium ~/public_html/threads $ ./index.html
+-bash: ./index.html: Permission denied
+sixfingers91@helium ~/public_html/threads $ vim index.html
+sixfingers91@helium ~/public_html/threads $ cd ..
+sixfingers91@helium ~/public_html $ ls
+Homeworks  threads
+sixfingers91@helium ~/public_html $ cd Homeworks.
+-bash: cd: Homeworks.: No such file or directory
+sixfingers91@helium ~/public_html $ cd /Homeworks/
+-bash: cd: /Homeworks/: No such file or directory
+sixfingers91@helium ~/public_html $ cd Homeworks
+sixfingers91@helium ~/public_html/Homeworks $ ls
+123.txt  1234.txt  HW_1_21.08.23  HW_2_24.08.23  HW_3_28.08.23  HW_4_31.08.23  HW_5_04.09.23  HW_6_07.09.23  index.html
+sixfingers91@helium ~/public_html/Homeworks $ vim index.html
+sixfingers91@helium ~/public_html/Homeworks $ ls -la
+total 48
+drwxr-xr-x 9 sixfingers91 sixfingers91 4096 Sep 21 19:49 .
+drwxr-xr-x 4 sixfingers91 sixfingers91 4096 Sep 21 18:25 ..
+drwxr-xr-x 7 sixfingers91 sixfingers91 4096 Sep 21 19:33 .git
+-rw-r--r-- 1 sixfingers91 sixfingers91   12 Sep 21 18:55 123.txt
+-rw-r--r-- 1 sixfingers91 sixfingers91    6 Sep 21 19:33 1234.txt
+drwxr-xr-x 2 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_1_21.08.23
+drwxr-xr-x 2 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_2_24.08.23
+drwxr-xr-x 2 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_3_28.08.23
+drwxr-xr-x 2 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_4_31.08.23
+drwxr-xr-x 4 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_5_04.09.23
+drwxr-xr-x 3 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_6_07.09.23
+-rw-r--r-- 1 sixfingers91 sixfingers91  588 Sep 21 19:49 index.html
+sixfingers91@helium ~/public_html/Homeworks $ chmod 645 index.html
+sixfingers91@helium ~/public_html/Homeworks $ ls -la
+total 48
+drwxr-xr-x 9 sixfingers91 sixfingers91 4096 Sep 21 19:49 .
+drwxr-xr-x 4 sixfingers91 sixfingers91 4096 Sep 21 18:25 ..
+drwxr-xr-x 7 sixfingers91 sixfingers91 4096 Sep 21 19:33 .git
+-rw-r--r-- 1 sixfingers91 sixfingers91   12 Sep 21 18:55 123.txt
+-rw-r--r-- 1 sixfingers91 sixfingers91    6 Sep 21 19:33 1234.txt
+drwxr-xr-x 2 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_1_21.08.23
+drwxr-xr-x 2 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_2_24.08.23
+drwxr-xr-x 2 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_3_28.08.23
+drwxr-xr-x 2 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_4_31.08.23
+drwxr-xr-x 4 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_5_04.09.23
+drwxr-xr-x 3 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_6_07.09.23
+-rw-r--r-x 1 sixfingers91 sixfingers91  588 Sep 21 19:49 index.html
+sixfingers91@helium ~/public_html/Homeworks $ cd ../
+sixfingers91@helium ~/public_html $ git mv Homeworks homeworks
+fatal: not a git repository (or any of the parent directories): .git
+sixfingers91@helium ~/public_html $ ls
+Homeworks  threads
+sixfingers91@helium ~/public_html $ cd /Homeworks/
+-bash: cd: /Homeworks/: No such file or directory
+sixfingers91@helium ~/public_html $ cd Homeworks/
+sixfingers91@helium ~/public_html/Homeworks $ git mv Homeworks homeworks
+fatal: bad source, source=Homeworks, destination=homeworks
+sixfingers91@helium ~/public_html/Homeworks $ cd ../
+-bash: $'\320\277\321cd': command not found
+sixfingers91@helium ~/public_html/Homeworks $ cd ..
+sixfingers91@helium ~/public_html $ git mv /home/pu
+pumbasl60/   punksunited/ pusachev/
+sixfingers91@helium ~/public_html $ git mv /home/pu
+pumbasl60/   punksunited/ pusachev/
+sixfingers91@helium ~/public_html $ git mv /home/sixfingers91/public_html/Homeworks /home/sixfingers91/public_html/homeworks
+fatal: not a git repository (or any of the parent directories): .git
+sixfingers91@helium ~/public_html $ cd Homeworks
+sixfingers91@helium ~/public_html/Homeworks $ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+sixfingers91@helium ~/public_html/Homeworks $ git add index.html
+sixfingers91@helium ~/public_html/Homeworks $ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   index.html
+
+sixfingers91@helium ~/public_html/Homeworks $ git mv /home/sixfingers91/public_html/Homeworks /home/sixfingers91/public_html/homeworks
+fatal: '/home/sixfingers91/public_html/homeworks' is outside repository
+sixfingers91@helium ~/public_html/Homeworks $ git mv /home/sixfingers91/public_html/Homeworks/ /home/sixfingers91/public_html/homeworks/
+fatal: '/home/sixfingers91/public_html/homeworks' is outside repository
+sixfingers91@helium ~/public_html/Homeworks $ cd ..
+sixfingers91@helium ~/public_html $ git mv /home/sixfingers91/public_html/Homeworks/ /home/sixfingers91/public_html/homeworks/
+fatal: not a git repository (or any of the parent directories): .git
+sixfingers91@helium ~/public_html $ git status
+fatal: not a git repository (or any of the parent directories): .git
+sixfingers91@helium ~/public_html $ cd Homeworks/
+sixfingers91@helium ~/public_html/Homeworks $ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   index.html
+
+sixfingers91@helium ~/public_html/Homeworks $ git commit -m "added common file index.html"
+Warning: commit message did not conform to UTF-8.
+You may want to amend it after fixing the message, or set the config
+variable i18n.commitencoding to the encoding your project uses.
+[master 994cfbc] фвÐadded common file index.html
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+sixfingers91@helium ~/public_html/Homeworks $ git log
+sixfingers91@helium ~/public_html/Homeworks $ git push -u origin master
+error: unknown non-ascii option in string: `-гu'
+usage: git push [<options>] [<repository> [<refspec>...]]
+
+    -v, --verbose         be more verbose
+    -q, --quiet           be more quiet
+    --repo <repository>   repository
+    --all                 push all refs
+    --mirror              mirror all refs
+    -d, --delete          delete refs
+    --tags                push tags (can't be used with --all or --mirror)
+    -n, --dry-run         dry run
+    --porcelain           machine-readable output
+    -f, --force           force updates
+    --force-with-lease[=<refname>:<expect>]
+                          require old value of ref to be at this value
+    --recurse-submodules[=(check|on-demand|no)]
+                          control recursive pushing of submodules
+    --thin                use thin pack
+    --receive-pack <receive-pack>
+                          receive pack program
+    --exec <receive-pack>
+                          receive pack program
+    -u, --set-upstream    set upstream for git pull/status
+    --progress            force progress reporting
+    --prune               prune locally removed refs
+    --no-verify           bypass pre-push hook
+    --follow-tags         push missing but relevant tags
+    --signed[=(yes|no|if-asked)]
+                          GPG sign the push
+    --atomic              request atomic transaction on remote side
+    -o, --push-option <server-specific>
+                          option to transmit
+    -4, --ipv4            use IPv4 addresses only
+    -6, --ipv6            use IPv6 addresses only
+
+sixfingers91@helium ~/public_html/Homeworks $ git push -u origin master
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 307 bytes | 307.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To github.com:EugeneGrom/A-level-git.git
+   ae03f2b..994cfbc  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+sixfingers91@helium ~/public_html/Homeworks $ vim index.html
+sixfingers91@helium ~/public_html/Homeworks $ cd ..
+sixfingers91@helium ~/public_html $ cd threads/
+sixfingers91@helium ~/public_html/threads $ ls -la
+total 16
+drwxr-xr-x 3 sixfingers91 sixfingers91 4096 Sep 21 19:46 .
+drwxr-xr-x 4 sixfingers91 sixfingers91 4096 Sep 21 18:25 ..
+drwxr-xr-x 7 sixfingers91 sixfingers91 4096 Sep 21 18:19 .git
+-rw-r--r-- 1 sixfingers91 sixfingers91  106 Sep 21 19:46 index.html
+sixfingers91@helium ~/public_html/threads $ cd ..
+sixfingers91@helium ~/public_html $ cd Homeworks/
+sixfingers91@helium ~/public_html/Homeworks $ ls -la
+total 48
+drwxr-xr-x 9 sixfingers91 sixfingers91 4096 Sep 21 20:30 .
+drwxr-xr-x 4 sixfingers91 sixfingers91 4096 Sep 21 18:25 ..
+drwxr-xr-x 7 sixfingers91 sixfingers91 4096 Sep 21 20:29 .git
+-rw-r--r-- 1 sixfingers91 sixfingers91   12 Sep 21 18:55 123.txt
+-rw-r--r-- 1 sixfingers91 sixfingers91    6 Sep 21 19:33 1234.txt
+drwxr-xr-x 2 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_1_21.08.23
+drwxr-xr-x 2 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_2_24.08.23
+drwxr-xr-x 2 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_3_28.08.23
+drwxr-xr-x 2 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_4_31.08.23
+drwxr-xr-x 4 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_5_04.09.23
+drwxr-xr-x 3 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_6_07.09.23
+-rw-r--r-x 1 sixfingers91 sixfingers91  588 Sep 21 20:30 index.html
+sixfingers91@helium ~/public_html/Homeworgit mv /home/sixfingers91/public_html/Homeworks/ /home/sixfingers91/public_html/homeworks/
+fatal: '/home/sixfingers91/public_html/homeworks' is outside repository
+sixfingers91@helium ~/public_html/Homeworks $ cd ..
+sixfingers91@helium ~/public_html $ git mv /home/sixfingers91/public_html/Homeworks/ /home/sixfingers91/public_html/homeworks/
+fatal: not a git repository (or any of the parent directories): .git
+sixfingers91@helium ~/public_html $ cd Homeworks/
+sixfingers91@helium ~/public_html/Homeworks $ git init
+Reinitialized existing Git repository in /home/sixfingers91/public_html/Homeworks/.git/
+sixfingers91@helium ~/public_html/Homeworks $ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+sixfingers91@helium ~/public_html/Homeworks $ vim index.html
+sixfingers91@helium ~/public_html/Homeworks $ cd ..
+sixfingers91@helium ~/public_html $ cd threads/
+sixfingers91@helium ~/public_html/threads $ vim index.html
+sixfingers91@helium ~/public_html/threads $ ls -la
+total 16
+drwxr-xr-x 3 sixfingers91 sixfingers91 4096 Sep 21 20:39 .
+drwxr-xr-x 4 sixfingers91 sixfingers91 4096 Sep 21 18:25 ..
+drwxr-xr-x 7 sixfingers91 sixfingers91 4096 Sep 21 18:19 .git
+-rw-r--r-- 1 sixfingers91 sixfingers91  106 Sep 21 20:39 index.html
+sixfingers91@helium ~/public_html/threads $ cd ..
+sixfingers91@helium ~/public_html $ cd Homeworks/
+sixfingers91@helium ~/public_html/Homeworks $ ls -la
+total 48
+drwxr-xr-x 9 sixfingers91 sixfingers91 4096 Sep 21 20:38 .
+drwxr-xr-x 4 sixfingers91 sixfingers91 4096 Sep 21 18:25 ..
+drwxr-xr-x 7 sixfingers91 sixfingers91 4096 Sep 21 20:37 .git
+-rw-r--r-- 1 sixfingers91 sixfingers91   12 Sep 21 18:55 123.txt
+-rw-r--r-- 1 sixfingers91 sixfingers91    6 Sep 21 19:33 1234.txt
+drwxr-xr-x 2 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_1_21.08.23
+drwxr-xr-x 2 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_2_24.08.23
+drwxr-xr-x 2 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_3_28.08.23
+drwxr-xr-x 2 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_4_31.08.23
+drwxr-xr-x 4 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_5_04.09.23
+drwxr-xr-x 3 sixfingers91 sixfingers91 4096 Sep 21 18:55 HW_6_07.09.23
+-rw-r--r-x 1 sixfingers91 sixfingers91  588 Sep 21 20:38 index.html
+sixfingers91@helium ~/public_html/Homeworks $ start: index.html
+-bash: start:: command not found
+sixfingers91@helium ~/public_html/Homeworks $ cd ..
+-bash: $'\321\201\320\262cd': command not found
+sixfingers91@helium ~/public_html/Homeworks $ cd ..
+sixfingers91@helium ~/public_html $ cd threads/
+sixfingers91@helium ~/public_html/threads $ vim index.html
+sixfingers91@helium ~/public_html/threads $ cd ..
+sixfingers91@helium ~/public_html $ cd Homeworks/
+sixfingers91@helium ~/public_html/Homeworks $ ls
+123.txt  1234.txt  HW_1_21.08.23  HW_2_24.08.23  HW_3_28.08.23  HW_4_31.08.23  HW_5_04.09.23  HW_6_07.09.23  index.html
+sixfingers91@helium ~/public_html/Homeworks $ cd ..
+sixfingers91@helium ~/public_html $ mv Homeworks homeworks
+sixfingers91@helium ~/public_html $ ls
+homeworks  threads
+sixfingers91@helium ~/public_html $ cd homeworks/
+sixfingers91@helium ~/public_html/homeworks $ ls
+123.txt  1234.txt  HW_1_21.08.23  HW_2_24.08.23  HW_3_28.08.23  HW_4_31.08.23  HW_5_04.09.23  HW_6_07.09.23  index.html
+sixfingers91@helium ~/public_html/homeworks $ vim index.html
+sixfingers91@helium ~/public_html/homeworks $ vim index.html
+sixfingers91@helium ~/public_html/homeworks $ git fetch
+remote: Enumerating objects: 10, done.
+remote: Counting objects: 100% (10/10), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 3), reused 6 (delta 3), pack-reused 0
+Unpacking objects: 100% (6/6), done.
+From github.com:EugeneGrom/A-level-git
+   994cfbc..c7960a1  master     -> origin/master
+sixfingers91@helium ~/public_html/homeworks $ git fetch git@github.com:EugeneGrom/A-level-git.git
+From github.com:EugeneGrom/A-level-git
+ * branch            HEAD       -> FETCH_HEAD
+sixfingers91@helium ~/public_html/homeworks $ git pull git@github.com:EugeneGrom/A-level-git.git
+From github.com:EugeneGrom/A-level-git
+ * branch            HEAD       -> FETCH_HEAD
+Updating 994cfbc..c7960a1
+error: Your local changes to the following files would be overwritten by merge:
+        index.html
+Please commit your changes or stash them before you merge.
+Aborting
+sixfingers91@helium ~/public_html/homeworks $ git status
+On branch master
+Your branch is behind 'origin/master' by 2 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+sixfingers91@helium ~/public_html/homeworks $ git add index.html
+sixfingers91@helium ~/public_html/homeworks $ git status
+On branch master
+Your branch is behind 'origin/master' by 2 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   index.html
+
+sixfingers91@helium ~/public_html/homeworks $ git commit -m 'updated index.html'
+[master 735019d] updated index.html
+ 1 file changed, 16 insertions(+), 16 deletions(-)
+ rewrite index.html (65%)
+sixfingers91@helium ~/public_html/homeworks $ git push -u origin master
+To github.com:EugeneGrom/A-level-git.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:EugeneGrom/A-level-git.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+sixfingers91@helium ~/public_html/homeworks $ git pull
+Auto-merging index.html
+CONFLICT (content): Merge conflict in index.html
+Removing 1234.txt
+Removing 123.txt
+Automatic merge failed; fix conflicts and then commit the result.
+sixfingers91@helium ~/pucd ..
+sixfingers91@helium ~/public_html $ git pull git@github.com:EugeneGrom/A-level-git.git
+fatal: not a git repository (or any of the parent directories): .git
+sixfingers91@helium ~/public_html $ cd homeworks/
+sixfingers91@helium ~/public_html/homeworks $ git pull git@github.com:EugeneGrom/A-level-git.git
+error: Pulling is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+sixfingers91@helium ~/public_html/homeworks $ ls
+-bash: $'\320\264ls': command not found
+sixfingers91@helium ~/public_html/homeworks $ ls
+HW_1_21.08.23  HW_2_24.08.23  HW_3_28.08.23  HW_4_31.08.23  HW_5_04.09.23  HW_6_07.09.23  index.html
+sixfingers91@helium ~/public_html/homeworks $ git fetch git@github.com:EugeneGrom/A-level-git.git
+From github.com:EugeneGrom/A-level-git
+ * branch            HEAD       -> FETCH_HEAD
+sixfingers91@helium ~/public_html/homeworks $ git pull git@github.com:EugeneGrom/A-level-git.git
+error: Pulling is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+sixfingers91@helium ~/public_html/homeworks $ git status
+On branch master
+Your branch and 'origin/master' have diverged,
+and have 1 and 2 different commits each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Changes to be committed:
+
+        deleted:    123.txt
+        deleted:    1234.txt
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+
+        both modified:   index.html
+
+sixfingers91@helium ~/public_html/homeworks $ git add index.html
+sixfingers91@helium ~/public_html/homeworks $ git status
+On branch master
+Your branch and 'origin/master' have diverged,
+and have 1 and 2 different commits each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+
+All conflicts fixed but you are still merging.
+  (use "git commit" to conclude merge)
+
+Changes to be committed:
+
+        deleted:    123.txt
+        deleted:    1234.txt
+        modified:   index.html
+
+sixfingers91@helium ~/public_html/homeworks $ git pull error: Pulling is not possible because you have unmerged files.
+error: You have not concluded your merge (MERGE_HEAD exists).
+hint: Please, commit your changes before merging.
+fatal: Exiting because of unfinished merge.
+sixfingers91@helium ~/public_html/homeworks $ hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+-bash: hint:: command not found
+sixfingers91@helium ~/public_html/homeworks $ hint: as appropriate to mark resolution and make a commit.
+-bash: hint:: command not found
+sixfingers91@helium ~/public_html/homeworks $ git pull git@github.com:EugeneGrom/A-level-git.git
+error: You have not concluded your merge (MERGE_HEAD exists).
+hint: Please, commit your changes before merging.
+fatal: Exiting because of unfinished merge.
+sixfingers91@helium ~/public_html/homeworks $ git commit -m 'commmit'
+[master 38b59b2] commmit
+sixfingers91@helium ~/public_html/homeworks $ git status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+sixfingers91@helium ~/public_html/homeworks $ git pull git@github.com:EugeneGrom/A-level-git.git
+From github.com:EugeneGrom/A-level-git
+ * branch            HEAD       -> FETCH_HEAD
+Already up to date.
+sixfingers91@helium ~/public_html/homeworks $ vim index.html
+sixfingers91@helium ~/public_html/homeworks $ git status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+sixfingers91@helium ~/public_html/homeworks $ vim index.html
+sixfingers91@helium ~/public_html/homeworks $ git add index.html
+sixfingers91@helium ~/public_html/homeworks $ git commit -m 'commit2'
+[master 26bb5d2] commit2
+ 1 file changed, 2 insertions(+), 11 deletions(-)
+sixfingers91@helium ~/public_html/homeworks $ git status
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+sixfingers91@helium ~/public_html/homeworks $ git push -u origin master
+Enumerating objects: 13, done.
+Counting objects: 100% (13/13), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (9/9), 961 bytes | 961.00 KiB/s, done.
+Total 9 (delta 6), reused 0 (delta 0)
+remote: Resolving deltas: 100% (6/6), completed with 3 local objects.
+To github.com:EugeneGrom/A-level-git.git
+   c7960a1..26bb5d2  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+sixfingers91@helium ~/public_html/homeworks $ vim index.html
+sixfingers91@helium ~/public_html/homeworks $ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+sixfingers91@helium ~/public_html/homeworks $ git add index.html
+sixfingers91@helium ~/public_html/homeworks $ git commit -m 'added style'
+[master d3c78fd] added style
+ 1 file changed, 8 insertions(+), 8 deletions(-)
+sixfingers91@helium ~/public_html/homeworks $ git push origin master
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 348 bytes | 348.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To github.com:EugeneGrom/A-level-git.git
+   26bb5d2..d3c78fd  master -> master
+sixfingers91@helium ~/public_html/homeworks $ script my_session.txt
+Script started, file is my_session.txt
+sixfingers91@helium ~/public_html/homeworks $ ls
+HW_1_21.08.23  HW_2_24.08.23  HW_3_28.08.23  HW_4_31.08.23  HW_5_04.09.23  HW_6_07.09.23  index.html  my_session.txt
+sixfingers91@helium ~/public_html/homeworks $ rm -r my_session.txt
+sixfingers91@helium ~/public_html/homeworks $ ls
+HW_1_21.08.23  HW_2_24.08.23  HW_3_28.08.23  HW_4_31.08.23  HW_5_04.09.23  HW_6_07.09.23  index.html
+sixfingers91@helium ~/public_html/homeworks $ cd /e/A-level/git/
+bash: cd: /e/A-level/git/: No such file or directory
+sixfingers91@helium ~/public_html/homeworks $ script my_session.txt
+Script started, file is my_session.txt
+sixfingers91@helium ~/public_html/homeworks $ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        my_session.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+sixfingers91@helium ~/public_html/homeworks $ git add my_session.txt
+sixfingers91@helium ~/public_html/homeworks $ git commit -m 'save session'
+[master eac01fd] save session
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 my_session.txt
+sixfingers91@helium ~/public_html/homeworks $ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+sixfingers91@helium ~/public_html/homeworks $ git push origin master
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 275 bytes | 275.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:EugeneGrom/A-level-git.git
+   d3c78fd..eac01fd  master -> master
+sixfingers91@helium ~/public_html/homeworks $ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
